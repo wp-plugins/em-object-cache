@@ -39,6 +39,9 @@ This plugin is the successor of [WP File Cache](http://blog.sjinks.pro/wordpress
 1. `wp-content/object-cache.php` file wust me writable by the server since plugin stores its options in that file.
 1. That's all :-)
 
+*WARNING:* if you download the plugin from WordPress.org and plugin's folder happens to be `em-object-cache`, please *RENAME* it to `em_object_cache`.
+I asked WordPress support to rename the plugin in the repository but until then the plugin folder should be renamed manually.
+
 == Deactivation/Removal ==
 
 1. Please make sure that `wp-content` directory is writable by the web server: the plugin will need to delete `object-cache.php` from it.
