@@ -4,7 +4,7 @@ Plugin Name: EM Object Cache
 Plugin URI: http://blog.sjinks.pro/wordpress/plugins/776-sj-object-cache-faster-object-cache-for-wordpress/
 Description: Object Cache for WordPress - a replacement for the standard WP_Object_Cache
 Author: Vladimir Kolesnikov
-Version: 2.0
+Version: 2.1
 Author URI: http://www.extrememember.com/
 */
 
